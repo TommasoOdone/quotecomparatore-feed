@@ -1,0 +1,48 @@
+{
+  "sample": false,
+  "source": "oddspapi",
+  "sponsored": true,
+  "updatedAt": "2026-11-18T17:26:06.899Z",
+  "event": {
+    "name": "Lazio Rome – US Lecce",
+    "competition": "Serie A",
+    "market": "Esito finale 1X2",
+    "selection": "1 (Lazio Rome)",
+    "icon": "1x2",
+    "teams": [
+      {
+        "name": "Lazio Rome",
+        "short": "Lazio",
+        "abbr": "LAZ"
+      },
+      {
+        "name": "US Lecce",
+        "short": "Lecce",
+        "abbr": "LEC"
+      }
+    ],
+    "kickoff": "2026-11-21T14:00:00.000Z"
+  },
+  "odds": [
+    {
+      "operatorId": "quigioco",
+      "operator": "Quigioco.it",
+      "odd": 1.41
+    },
+    {
+      "operatorId": "sisal",
+      "operator": "Sisal",
+      "odd": 1.36
+    },
+    {
+      "operatorId": "eurobet",
+      "operator": "Eurobet",
+      "odd": 1.37
+    },
+    {
+      "operatorId": "goldbet",
+      "operator": "Goldbet",
+      "odd": 1.35
+    }
+  ]
+}
