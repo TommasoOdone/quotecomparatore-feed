@@ -3,7 +3,7 @@
   "source": "oddspapi",
   "sponsored": true,
   "partnerBest": true,
-  "updatedAt": "2026-11-26T17:50:35.108Z",
+  "updatedAt": "2026-11-26T18:42:20.485Z",
   "event": {
     "name": "Venezia – Bologna",
     "competition": "Serie A",
@@ -36,14 +36,14 @@
       "odd": 2.9
     },
     {
-      "operatorId": "eurobet",
-      "operator": "Eurobet",
-      "odd": 2.85
-    },
-    {
       "operatorId": "netbet",
       "operator": "NetBet",
       "odd": 2.85
+    },
+    {
+      "operatorId": "admiralbet",
+      "operator": "AdmiralBet",
+      "odd": 2.8
     }
   ]
 }
