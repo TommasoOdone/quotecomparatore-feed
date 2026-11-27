@@ -3,47 +3,47 @@
   "source": "oddspapi",
   "sponsored": true,
   "partnerBest": true,
-  "updatedAt": "2026-11-26T18:45:28.688Z",
+  "updatedAt": "2026-11-27T14:28:48.576Z",
   "event": {
-    "name": "Venezia – Bologna",
+    "name": "Torino – Lazio",
     "competition": "Serie A",
     "market": "Esito 1° tempo",
-    "selection": "2 (Bologna)",
+    "selection": "2 (Lazio)",
     "icon": "tempo",
     "teams": [
       {
-        "name": "Venezia",
-        "short": "Venezia",
-        "abbr": "VEN"
+        "name": "Torino",
+        "short": "Torino",
+        "abbr": "TOR"
       },
       {
-        "name": "Bologna",
-        "short": "Bologna",
-        "abbr": "BFC"
+        "name": "Lazio",
+        "short": "Lazio",
+        "abbr": "LAZ"
       }
     ],
-    "kickoff": "2026-11-27T19:45:00.000Z"
+    "kickoff": "2026-11-28T17:00:00.000Z"
   },
   "odds": [
     {
       "operatorId": "quigioco",
       "operator": "Quigioco.it",
-      "odd": 3
-    },
-    {
-      "operatorId": "betflag",
-      "operator": "BetFlag",
-      "odd": 2.9
+      "odd": 2.86
     },
     {
       "operatorId": "netbet",
       "operator": "NetBet",
-      "odd": 2.85
+      "odd": 2.72
     },
     {
       "operatorId": "admiralbet",
       "operator": "AdmiralBet",
-      "odd": 2.8
+      "odd": 2.7
+    },
+    {
+      "operatorId": "betflag",
+      "operator": "BetFlag",
+      "odd": 2.7
     }
   ]
 }
